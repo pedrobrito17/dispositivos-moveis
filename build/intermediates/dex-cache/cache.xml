@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/80bd82be08ed480a89c9616b9f4e96844ae4847d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_6730b8f1f3a9dfcede6b15d6e61e188958d14ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/9ee4575d81af5b9d544cb1f8c5499c6a61a2a694/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_7ea13c22a35cd6be70ccbc1bd85df736c4e4b614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/b6cce226c9def6a366506d87626c26717403f3ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_8e7be014e662d0d372bec1627c1769a800490c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/431ad4368b5e80e6cdc6b1068a0f902a66d2206d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_16e67a62a14e5fa1a0bedd889d22baa7324f05e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/54cea38bbdc2ba20af0b36217f8e45f4384b08a2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0a09df02495af5421f538dcefd2d49a263088f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/431ad4368b5e80e6cdc6b1068a0f902a66d2206d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a5b0ffc6c27cb9377f9cc821b0500677ab9ae1b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/917ac4c649995799c252c95a985ffd334742a4bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_2af8570a69012f40a6925c033d87497e9a3826a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/95c018632bf610808c287989000e10493bd0edcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_5a8e27aefc223eca72b173a7b853281b3f062252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/3be686f33b7d027dcef16af4394fd0f8acb42e0b/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_45fadb8e237055c21a6827b910e04361febe8553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/15715cffed9dc555fc8af6dc59573e4d4cde7b69/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b60714f64fd5d07a1839560ec63fcd4f115fc31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/8088fdfafe6b029d18107cbbcddf91798ccbed1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_d315d10ef7864cc9bc80a73e37e5d36df4a85f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_e76a5874fbe0d6f8c13fde249497cc5efcb6a458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/fa3f7be6af118190e07fa66357e2f4b29a56bb63/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a949cdd9f1a9880e48fa363c3cd862ddb46f0b07.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d7a92e5c2d4f91618aa633932a82e65f520ef73">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8bd16407bc085b1248b94d658129f66c33ddfbaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_10da1e3867ace5cbae90ff9567e1507ff629176f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/54cea38bbdc2ba20af0b36217f8e45f4384b08a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_1c77594779355c8c1fc8d5e5f063c225ab51cf3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/15715cffed9dc555fc8af6dc59573e4d4cde7b69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_4c1d5ebab64fff1f28fa74c64a9682cb67d13760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/fa3f7be6af118190e07fa66357e2f4b29a56bb63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_b7853b4a48702941cbbc189927165418e075f3d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_73caff240f597a8017e2c93dfdba5deb21009bb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/4c96796d2b8abbe2c10aea50f0fd6a3a2cf6fb2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_0cd6fa22801d95e16870802a61160875c80d7ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedro/.android/build-cache/3be686f33b7d027dcef16af4394fd0f8acb42e0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/pedro/AndroidStudioProjects/VeterinariaSantos/app/build/intermediates/pre-dexed/debug/classes_78f615d1591b73141d8015102b68d1c347bd2753.jar" />
+    </item>
+
+</items>
